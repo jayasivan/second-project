@@ -16,7 +16,11 @@ public class Test {
 	private void m2() {
 
 		System.out.println("sathesshh");
+
 		System.out.println("sathish done");
+
+		System.out.println("thalacode added");
+
 	}
 	
 }
