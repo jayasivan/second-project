@@ -22,5 +22,8 @@ public class Test {
 		System.out.println("thalacode added");
 
 	}
-	
+	public static void main(String[] args) {
+		Test r=new Test();
+		r.m1();
+	}
 }
