@@ -8,5 +8,8 @@ public class Test {
 		
 		System.out.println("test1");
 	}
-	
+	public static void main(String[] args) {
+		Test r=new Test();
+		r.m1();
+	}
 }
